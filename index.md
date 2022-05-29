@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# 百迈客单细胞转录组结题报告
+## 摘要
+完成2个样本的单细胞测序，共计得到13449个细胞,平均每个样本原始数据量为90.60 G。
+项目信息	详情
+project_id	scRNA-seq基本分析报告测试new
+samples	M1,M2
+groups	M1_vs_M2
